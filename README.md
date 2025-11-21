@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-#ffffff.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c.svg)
 
 **A matrix computations project exploring lossy image compression and optimal reconstruction.**
 
