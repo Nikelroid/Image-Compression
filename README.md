@@ -1,9 +1,9 @@
 # Image Compression with SVD and FFT
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243?logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-5C3EE8?logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7%2B-11557c?logo=matplotlib&logoColor=white)
 
 **A matrix computations project exploring lossy image compression and optimal reconstruction.**
 
